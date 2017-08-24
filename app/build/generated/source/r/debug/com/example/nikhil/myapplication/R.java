@@ -2284,6 +2284,7 @@ containing a value of this type.
         public static final int notify_panel_notification_icon_bg=0x7f02005c;
     }
     public static final class id {
+        public static final int absbtn=0x7f0b0060;
         public static final int action0=0x7f0b0064;
         public static final int action_bar=0x7f0b004f;
         public static final int action_bar_activity_content=0x7f0b0000;
@@ -2311,9 +2312,6 @@ containing a value of this type.
         public static final int basic=0x7f0b000f;
         public static final int beginning=0x7f0b0022;
         public static final int bottom=0x7f0b002a;
-        public static final int button=0x7f0b005e;
-        public static final int button2=0x7f0b005f;
-        public static final int button3=0x7f0b0060;
         public static final int buttonPanel=0x7f0b0036;
         public static final int cancel_action=0x7f0b0065;
         public static final int chains=0x7f0b0010;
@@ -2354,6 +2352,7 @@ containing a value of this type.
         public static final int packed=0x7f0b000c;
         public static final int parent=0x7f0b0009;
         public static final int parentPanel=0x7f0b0038;
+        public static final int prebtn=0x7f0b005f;
         public static final int progress_circular=0x7f0b0005;
         public static final int progress_horizontal=0x7f0b0006;
         public static final int radio=0x7f0b0048;
@@ -2401,6 +2400,7 @@ containing a value of this type.
         public static final int topPanel=0x7f0b0041;
         public static final int up=0x7f0b0008;
         public static final int useLogo=0x7f0b001a;
+        public static final int viewbtn=0x7f0b005e;
         public static final int withText=0x7f0b0029;
         public static final int wrap=0x7f0b000b;
         public static final int wrap_content=0x7f0b0021;
